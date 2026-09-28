@@ -28,5 +28,5 @@ As a user, I want to view my profile, so that I can check my personal informatio
 
 \## US-105 - Change Password
 
-As a user, I want to change my password, so that I can keep my account secure.
+As a user, I want to change my password, so that I can keep my account secure and also let me get confident
 
