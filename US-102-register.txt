@@ -1,0 +1,9 @@
+User Story: US-102 Register 
+ 
+As a user, I want to register, 
+so that I can create an account. 
+Validation: 
+- Email cannot be empty 
+- Password is required 
+Documentation: 
+US-102 register feature completed. 

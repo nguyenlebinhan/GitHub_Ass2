@@ -1,0 +1,9 @@
+US-104 - View Profile
+
+As a user, I want to view my profile, so that I can check my personal information.
+
+Profile information:
+- Full Name
+- Email
+- Phone Number
+- Date of Birth
