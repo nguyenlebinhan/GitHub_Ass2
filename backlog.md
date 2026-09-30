@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+# Mini Backlog
+1. As an employee, I want to submit a leave request, so that I can take time off.
+2. As a manager, I want to approve or reject leave requests, so that I can manage team availability.
+3. As a user, I want to view my leave history, so that I know my remaining days off.
+=======
 \# Mini Backlog
 
 
@@ -30,3 +36,4 @@ As a user, I want to view my profile, so that I can check my personal informatio
 
 As a user, I want to change my password, so that I can keep my account secure and also let me get confident whenever I get new account.
 
+>>>>>>> 2418ba9f53667cf93f540805f48878e847d0cf82
